@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+}
+.row{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card{
+    margin-bottom: 50px;
+}
